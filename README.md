@@ -1,3 +1,8 @@
+### _Note: This is the final code for London App Brewery's Flutter Flash Chat._ You find their course link down below. I strongly recommend to follow Angela Yu in this flutter course.
+
+
+
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
